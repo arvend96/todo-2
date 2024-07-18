@@ -1,0 +1,1 @@
+This is a beginner friendly project named To-Do list specially for bad memory people. This web able to organize lists of things to do in a day or upcoming days
